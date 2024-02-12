@@ -28,7 +28,7 @@
 
 :DaysOfSupply a samm:Aspect ;
    samm:preferredName "Days of Supply"@en ;
-   samm:description "Days of Supply refers to the amount of days where item stock is sufficient for the demand. The incoming deliveries are not considered in the main days-of-supply-equasion, but they can still be included in the projection of days-of-supply for the future days."@en ;
+   samm:description "Days of Supply refers to the amount of days where item stock is sufficient for the demand. The incoming deliveries are not considered in the main days-of-supply-equation, but they can still be included in the projection of days-of-supply for the future days."@en ;
    samm:properties ( :materialGlobalAssetId :direction :allocatedDaysOfSupply ) ;
    samm:operations ( ) ;
    samm:events ( ) .
